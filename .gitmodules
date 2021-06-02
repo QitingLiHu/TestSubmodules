@@ -1,0 +1,3 @@
+[submodule "New-submodule-project"]
+	path = New-submodule-project
+	url = https://github.com/QitingLiHu/New-submodule-project
